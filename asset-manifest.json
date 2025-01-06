@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/STORES/static/css/main.f13465d8.css",
+    "main.js": "/STORES/static/js/main.20995b5e.js",
+    "static/media/redux.cjs": "/STORES/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/STORES/index.html",
+    "main.f13465d8.css.map": "/STORES/static/css/main.f13465d8.css.map",
+    "main.20995b5e.js.map": "/STORES/static/js/main.20995b5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f13465d8.css",
+    "static/js/main.20995b5e.js"
+  ]
+}
